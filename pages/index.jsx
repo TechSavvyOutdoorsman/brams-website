@@ -20,7 +20,7 @@ const Page = () => {
 
         <Container>
             <Box borderRadius='lg' bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} align='center'>
-                Hello, I'm a front-end developer based in Montana!
+                Hello, I&apos;m a front-end developer based in Montana!
             </Box> 
 
             <Box display={{md: 'flex'}}>
@@ -45,7 +45,7 @@ const Page = () => {
                 his enjoy as much as he does.
                 He fell in love with coding because of his natural
                 inclination towards problem-solving and building
-                things. Currently, he's working through his Digital Agency called
+                things. Currently, he&apos;s working through his Digital Agency called
                 {' '}
                 <NextLink href='/works/metatech'><Link>METATECH Digital</Link></NextLink>
                 </Paragraph>
