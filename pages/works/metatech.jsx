@@ -12,7 +12,7 @@ const Work = () => {
                     METATECH Digital<Badge>2021</Badge>
                 </Title>
                 <P>
-                    My Digital Agency that specializes in creating unparalled digital experiences that you won't find anywhere else. 
+                    My Digital Agency that specializes in creating unparalled digital experiences that you won&apos;t find anywhere else. 
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>

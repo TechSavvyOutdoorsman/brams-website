@@ -12,7 +12,7 @@ const Work = () => {
                     Alaska Keyman Locksmith Services<Badge>2020</Badge>
                 </Title>
                 <P>
-                A simple but effective website that I built for my dad's friend when I was first getting into web development.
+                A simple but effective website that I built for my dad&apos;s friend when I was first getting into web development.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
