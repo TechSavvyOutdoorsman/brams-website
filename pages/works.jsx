@@ -26,8 +26,7 @@ const Works = () => {
                         My Digital Agency that creates unparalled digital experiences.
                     </WorkGridItem>
                 </Section>
-            </SimpleGrid>--
-
+            </SimpleGrid>
             <Section delay={0.4}>
                 <Divider my={6} />
 
