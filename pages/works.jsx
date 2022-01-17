@@ -13,7 +13,7 @@ import thumbMeta from '../public/images/works/meta_eyecatch.png'
 
 const Works = () => {
     return (
-        <Layout>
+        <Layout title='Works'>
 
         <Container>
             <Heading as='h3' fontSize={20} mb={4}>
@@ -26,7 +26,7 @@ const Works = () => {
                         My Digital Agency that creates unparalled digital experiences.
                     </WorkGridItem>
                 </Section>
-            </SimpleGrid>
+            </SimpleGrid>--
 
             <Section delay={0.4}>
                 <Divider my={6} />
