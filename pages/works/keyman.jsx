@@ -6,7 +6,7 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title='keyman'>
+        <Layout title='Keyman Locksmith Services'>
             <Container>
                 <Title>
                     Alaska Keyman Locksmith Services<Badge>2020</Badge>

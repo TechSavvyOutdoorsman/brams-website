@@ -6,7 +6,7 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title='metatech'>
+        <Layout title='METATECH Digital'>
             <Container>
                 <Title>
                     METATECH Digital<Badge>2021</Badge>

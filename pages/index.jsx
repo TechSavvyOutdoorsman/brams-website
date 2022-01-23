@@ -40,10 +40,9 @@ const Page = () => {
                     Work
                 </Heading>
                 <Paragraph>
-                Bram is a freelance front-end developer with
-                a passion for building digital experiences that 
-                his enjoy as much as he does.
-                He fell in love with coding because of his natural
+                Bram is a freelance front-end developer that has a 
+                knack for combining art with technology. He fell in 
+                love with coding because of his natural
                 inclination towards problem-solving and building
                 things. Currently, he&apos;s working through his Digital Agency called
                 {' '}
@@ -73,9 +72,9 @@ const Page = () => {
                     Started Freelancing  
                 </BioSection>
                 <Heading as='h3' variant='section-title'>
-                    My Hobbies 
+                    My Other Interests 
                 </Heading>
-                <Paragraph>Fly Fishing, Hunting, Archery, Camping, Drawing, and Reading</Paragraph>
+                <Paragraph>Technology, Business, Finance, Fly Fishing, Hunting, Drawing, & Reading</Paragraph>
             </Section>
 
 
