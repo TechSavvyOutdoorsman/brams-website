@@ -24,13 +24,13 @@ img {
 `
 
 const Logo = () => {
-    const footPrintImg = `/images/code${useColorModeValue('', '-dark')}.svg`
+    const codeImg = `/images/code${useColorModeValue('', '-dark')}.svg`
 
     return (
         <Link href='/'>
             <a>
                 <LogoBox>
-                    <Image src={footPrintImg} width={20} height={20} alt='logo' />
+                    <Image src={codeImg} width={20} height={20} alt='logo' />
                     <Text
                     color={useColorModeValue('gray.800', 'whiteAlpha.900')}
                     fontWeight='bold'
