@@ -14,6 +14,7 @@ import {
     IconButton,
     useColorModeValue
 } from '@chakra-ui/react'
+import { IoLogoGithub } from 'react-icons/io'
 import { HamburgerIcon } from '@chakra-ui/icons'
 import ThemeToggleButton from './theme-toggle-button'
 
@@ -79,7 +80,7 @@ const Navbar = props => {
                     <LinkItem href='/posts' path={path}>
                         Posts
                     </LinkItem>
-                    {/* <LinkItem 
+                    <LinkItem 
                     as={Link}
                     href='https://github.com/techsavvyoutdoorsman/Portfolio'
                     _target="_blank"
@@ -89,8 +90,7 @@ const Navbar = props => {
                     style={{ gap: 4 }}
                     pl={2}>
                         <IoLogoGithub /> 
-                        Source
-                    </LinkItem> */}
+                    </LinkItem>
                 </Stack>
 
             <Box flex={1} align='right'>
@@ -114,7 +114,7 @@ const Navbar = props => {
                         <NextLink href='/posts' passHref>
                             <MenuItem as={Link}>Posts</MenuItem>
                         </NextLink>
-                        <MenuItem as={Link} href='https://www.github.com/techsavvyoutdoorsman/Portfolio'>View Source Code</MenuItem>
+                        <MenuItem as={Link} href='https://www.github.com/techsavvyoutdoorsman/brams-website'>View Source Code</MenuItem>
                         
                     </MenuList>
                     </Menu>
